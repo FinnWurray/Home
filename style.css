@@ -25,15 +25,44 @@ h3 {
     -webkit-text-fill-color: transparent;
 }
 
+iframe {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 body {
     min-height: 100vh;
     background: linear-gradient(to bottom, #33ccff 0%, #000066 100%);
+    margin: 0;
 }
 
 .home-button {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    /* width: 50%; */
     border: 4px solid black;
 }
+
+.topnav {
+    background-color: #000066;
+    overflow: hidden;
+  }
+
+  .topnav a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  .topnav a:hover {
+    background-color: #053e5f;
+    color: white;
+  }
+
+  .topnav a.active {
+    background-color: #000000;
+    color: white;
+  }
