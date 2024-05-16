@@ -18,6 +18,14 @@ h3 {
     font-family: "Garamond";
     color: white;
 }
+
+h4 {
+    font-size: 15px;
+    text-align: center;
+    font-family: "Garamond";
+    color: white;
+}
+    
     
 #smwimg,iframe {
   margin: 0 auto;
