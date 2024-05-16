@@ -60,8 +60,6 @@ a.nav-link {
   color: white;
 }
 
-/* stylelint-disable @stylistic/selector-list-comma-newline-after */
-
 .blog-header-logo {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   font-size: 2.25rem;
@@ -179,4 +177,5 @@ a.nav-link {
 
 .finn-card {
   background-color:   #d7e4ff;
+  border: 5px solid #555;
 }
