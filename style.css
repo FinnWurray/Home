@@ -78,14 +78,9 @@ a.nav-link {
   .h-md-250 { height: 250px; }
 }
 
-/* Pagination */
 .blog-pagination {
   margin-bottom: 4rem;
 }
-
-/*
- * Blog posts
- */
 .blog-post {
   margin-bottom: 4rem;
 }
